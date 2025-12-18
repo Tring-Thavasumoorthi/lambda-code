@@ -1,5 +1,5 @@
-const login=()=>{
+const signin=()=>{
     console.log("Logging into web page")
 }
 
-login()
+signin()
